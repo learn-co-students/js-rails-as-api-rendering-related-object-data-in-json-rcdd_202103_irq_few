@@ -30,7 +30,6 @@ We could imagine, as well, if we were to expand on this application, a logical
 next step for bird watching might be some sort of location-based _bird sighting_
 system. A user of this site might one day be able to log the sighting of rare
 birds in their backyard.
-
 <p align="center">
   <img width="500" src="https://curriculum-content.s3.amazonaws.com/js/rails-as-an-api/Image_16_BirdSighting.png">
 </p>
